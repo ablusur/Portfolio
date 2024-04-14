@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: blueviolet;
+  background: black;
   color: white;
 }
 img {
@@ -16,7 +16,7 @@ img {
   width: 40px;
   border-radius: 50%;
   color: white;
-  background-color: red;
+  background-color: blueviolet;
   font-size: 14px;
   font-weight: 500;
   position: fixed;
