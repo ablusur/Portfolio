@@ -20,7 +20,7 @@ if(typing < typed.length){
 
 setInterval(()=>{
     typedJs()
-},50);
+},30);
 
 let topone = document.querySelector(".top");
 topone.addEventListener("click",()=>{
